@@ -1,9 +1,5 @@
 # Agrupamiento y análisis de grupos en personas con insuficiencia cardiaca
 
-# Información de contacto
-- José Vidal Cardona Rosas: ladivcr@comunidad.unam.mx
-- Brian Kalid García Olivo: briankalid2000@gmail.com
-
 # Resumen 
 En el presente documento se realizará un análisis de grupos haciendo uso del 
 algoritmo de aprendizaje no supervisado, k-medios (k-means en inglés) para
